@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informativa sulla Privacy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+        }
+        header {
+            background-color: #f4f4f4;
+            padding: 10px 20px;
+            border-bottom: 1px solid #ccc;
+        }
+        h1 {
+            color: #333;
+        }
+        section {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Informativa sulla Privacy</h1>
+    </header>
+
+    <section>
+        <h2>1. Introduzione</h2>
+        <p>
+            Questa informativa descrive come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali in conformit&agrave; con il Regolamento Generale sulla Protezione dei Dati (GDPR).
+        </p>
+    </section>
+
+    <section>
+        <h2>2. Dati Raccolti</h2>
+        <p>
+            Potremmo raccogliere le seguenti informazioni:
+        </p>
+        <ul>
+            <li>Dati identificativi (nome, cognome, indirizzo email)</li>
+            <li>Dati di navigazione (indirizzo IP, tipo di browser, sistema operativo)</li>
+            <li>Eventuali altre informazioni fornite volontariamente</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>3. Finalit&agrave; del Trattamento</h2>
+        <p>
+            I dati raccolti saranno utilizzati per:
+        </p>
+        <ul>
+            <li>Fornire i nostri servizi</li>
+            <li>Rispondere alle richieste degli utenti</li>
+            <li>Migliorare il nostro sito web e i nostri servizi</li>
+            <li>Adempiere a obblighi legali</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>4. Base Giuridica</h2>
+        <p>
+            Trattiamo i tuoi dati personali solo quando abbiamo una base giuridica valida, come il tuo consenso esplicito o la necessit&agrave; di adempiere a un contratto.
+        </p>
+    </section>
+
+    <section>
+        <h2>5. Conservazione dei Dati</h2>
+        <p>
+            I dati personali saranno conservati per il tempo strettamente necessario a raggiungere le finalit&agrave; per cui sono stati raccolti o in conformit&agrave; alle leggi applicabili.
+        </p>
+    </section>
+
+    <section>
+        <h2>6. Diritti degli Interessati</h2>
+        <p>
+            Hai il diritto di:
+        </p>
+        <ul>
+            <li>Accedere ai tuoi dati personali</li>
+            <li>Richiedere la rettifica o la cancellazione dei dati</li>
+            <li>Limitare il trattamento</li>
+            <li>Opporsi al trattamento</li>
+            <li>Richiedere la portabilit&agrave; dei dati</li>
+            <li>Presentare un reclamo a un'autorità di controllo</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>7. Contatti</h2>
+        <p>
+            Per qualsiasi domanda o richiesta relativa alla tua privacy, puoi contattarci a: <strong>privacy@tuosito.it</strong>
+        </p>
+    </section>
+</body>
+</html>
+
