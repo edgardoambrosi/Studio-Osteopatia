@@ -1,2 +1,2 @@
 # Studio Osteopatia Francesco Paolo D'Agostinio
-Studio Di Osteopatia di Francesco Paolo D'Agostino
+Studio per Trattamenti Osteopatici di Francesco Paolo D'Agostino
